@@ -1,0 +1,20 @@
+body {
+  background-color: grey;
+  border-radius: 50%;
+}
+
+h2 {
+  color: white;
+  border-radius: 50%;
+}
+
+div {
+  border: 150px;
+  margin: 10px;
+}
+
+.newborder {
+  width: 130px;
+  height: 130px;
+  background-color: azure;
+}
